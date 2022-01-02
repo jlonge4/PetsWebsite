@@ -68,6 +68,10 @@ ul li:hover a {
 	transition: all 0.3s linear;
 	size: 20%;
 }
+
+.currentLink {
+	color: #6699CC;
+}
 /*main parapgraph*/
 h3 {
 	color: #ffffff;
@@ -125,6 +129,10 @@ p {
 	float: right;
 	margin-right: 40px;
 	size: 33%;
+}
+.link {
+	color: #6699CC;;
+
 }
 
 /*Form*/
